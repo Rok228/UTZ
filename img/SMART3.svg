@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name=" Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 434.87 289.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Безымянный_градиент_15-4);
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_15-5);
+      }
+
+      .cls-3 {
+        fill: url(#_Безымянный_градиент_15-3);
+      }
+
+      .cls-4 {
+        fill: url(#_Безымянный_градиент_15);
+      }
+
+      .cls-5 {
+        fill: url(#_Безымянный_градиент_15-6);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: url(#_Безымянный_градиент_15-2);
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-8" x="7.1" y="3.1" width="426.67" height="284.45" rx="9.51" ry="9.51"/>
+    </clipPath>
+    <linearGradient id="_Безымянный_градиент_15" data-name="Безымянный градиент 15" x1="586.76" y1="395.56" x2="154.19" y2="102.25" gradientTransform="translate(0 290.09) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4ced66"/>
+      <stop offset="1" stop-color="#2ceff4"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_15-2" data-name="Безымянный градиент 15" x1="6.1" y1="246.51" x2="178.3" y2="65.61" gradientTransform="translate(289.62 290.09) rotate(-180)" xlink:href="#_Безымянный_градиент_15"/>
+    <linearGradient id="_Безымянный_градиент_15-3" data-name="Безымянный градиент 15" x1="81.33" y1="208.7" x2="223.1" y2="67.81" gradientTransform="translate(289.62 290.09) rotate(-180)" xlink:href="#_Безымянный_градиент_15"/>
+    <linearGradient id="_Безымянный_градиент_15-4" data-name="Безымянный градиент 15" x1="292.19" y1="199.21" x2="467.87" y2="45.28" xlink:href="#_Безымянный_градиент_15"/>
+    <linearGradient id="_Безымянный_градиент_15-5" data-name="Безымянный градиент 15" x1="410.16" y1="28.41" x2="412.3" y2="28.41" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#_Безымянный_градиент_15"/>
+    <linearGradient id="_Безымянный_градиент_15-6" data-name="Безымянный градиент 15" x1="411.98" y1="29.64" x2="412.94" y2="29.64" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#_Безымянный_градиент_15"/>
+  </defs>
+  <g class="cls-6">
+    <g>
+      <rect class="cls-4" width="434.87" height="289.91"/>
+      <path class="cls-7" d="m207.27,99.79c18.26,69.58,152.2,66.1,183.51,120.02,15.72,27.07,6.45,52.82-20.11,70.11H.33V0h93.14c4.92,44.24,97.46,37.52,113.81,99.79h0Z"/>
+      <path class="cls-3" d="m151.61,127.62c12.18,73.92,134.81,77.4,142.63,131.32,2.11,14.52-.15,24.19-5.93,30.97H.33V0h58.05c-2.1,54.61,82.44,62.1,93.23,127.62h0Z"/>
+      <path class="cls-1" d="m410.57,0c6.95,65-46.8,79.44-51.32,144.96-5.1,73.92-81.39,79.31-86.1,133.12-.36,4.11-.41,8.05-.2,11.84h161.92V0h-24.3,0Z"/>
+      <g>
+        <path class="cls-2" d="m411.98,27.66c.42.42.42,1.09,0,1.5-.41.41-1.09.41-1.5,0-.42-.41-.42-1.09,0-1.5s1.09-.41,1.5,0Z"/>
+        <line class="cls-5" x1="411.98" y1="29.16" x2="412.94" y2="30.12"/>
+      </g>
+    </g>
+  </g>
+</svg>
